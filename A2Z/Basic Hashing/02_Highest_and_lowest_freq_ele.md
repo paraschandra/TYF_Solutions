@@ -1,4 +1,4 @@
-### Find the highest/lowest frequency element
+### 02. Find the highest/lowest frequency element
 
 **Problem Statement:** <br/>
 Given an array of size N. Find the highest and lowest frequency element.

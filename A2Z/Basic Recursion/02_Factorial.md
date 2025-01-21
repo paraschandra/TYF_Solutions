@@ -1,4 +1,4 @@
-### Factorial upto n
+### 02. Factorial upto n
 
 **Problem Statement:** <br/>
 A number n is called a factorial number if it is the factorial of a positive integer. 

@@ -1,4 +1,4 @@
-### Sum of first n terms
+### 01. Sum of first n terms
 
 **Problem Statement:** <br/>
 Given an integer n, calculate the sum of series 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> + 4<sup>3</sup> + … till n-th term.

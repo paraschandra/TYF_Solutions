@@ -1,4 +1,4 @@
-### Sum 1 to n Divisors
+### 06. Sum 1 to n Divisors
 
 **Problem Statement:** <br/>
 Given a positive integer n, The task is to find the value of Σi F(i) where i is from 1 to n and function F(i) is defined as the sum of all divisors of i.
